@@ -1,5 +1,5 @@
 ## Hi there 👋
-Current UoB third year astrophysics undergraduate. Exoplanet enthusiast. Experienced with python.
+Just a guy who likes making things in python, mostly just apps for convenience.
 <!--
 **steviejaydee/steviejaydee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
