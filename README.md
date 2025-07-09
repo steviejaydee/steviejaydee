@@ -1,5 +1,6 @@
 ## Hi there 👋
 Just a guy who likes making things in python, mostly just apps for convenience.
+Computer Science Masters student at the University of Birmingham.
 <!--
 **steviejaydee/steviejaydee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
